@@ -1,4 +1,4 @@
-# Weekly Challenge 08: Graph Connectivity
+# Weekly Challenge 09: Graph Connectivity
 # CS 412 Algorithms: Design and Analysis, Spring 2023
 ***
 
